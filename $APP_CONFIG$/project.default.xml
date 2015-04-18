@@ -1,13 +1,14 @@
 <application>
   <component name="ProjectManager">
     <defaultProject version="4">
-      <component name="DaemonCodeAnalyzer">
-        <disable_hints />
+      <component name="CMakeSettings" AUTO_RELOAD="false" GENERATION_PASS_SYSTEM_ENVIRONMENT="true">
+        <ADDITIONAL_GENERATION_ENVIRONMENT>
+          <envs />
+        </ADDITIONAL_GENERATION_ENVIRONMENT>
       </component>
-      <component name="DependencyValidationManager">
-        <option name="SKIP_IMPORT_STATEMENTS" value="false" />
+      <component name="NamedScopeManager">
+        <order />
       </component>
-      <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
       <component name="ProjectLevelVcsManager" settingsEditedManually="false">
         <OptionsSetting value="true" id="Add" />
         <OptionsSetting value="true" id="Remove" />
@@ -34,9 +35,6 @@
             <option name="myUseModuleSdk" value="true" />
           </console-settings>
         </option>
-      </component>
-      <component name="RunManager">
-        <list size="0" />
       </component>
     </defaultProject>
   </component>
